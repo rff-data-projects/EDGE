@@ -1,7 +1,7 @@
 # EDGE
 The Employment Dynamics in General Equilibrium model is an extension of modeling work published in Hafstead and Williams (2018) and Hafstead et al. (2022). EDGE is used to evaluate how environmental policies such as carbon pricing impact unemployment and the reallocation of workers across sectors.
 
-A complete description of the benchmark model and its extensions are available at <forthcoming>.
+A complete description of the benchmark model and its extensions is available [here](https://media.rff.org/documents/EDGE_Model_Documentation-070122.pdf).
 
 EDGE uses GAMS with the PATH solver.
 
